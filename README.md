@@ -1,4 +1,4 @@
-<h1>Fictional Cybersecurity incident report: network traffic analysis</h1>
+<h1>Fictional Cybersecurity incident report</h1>
 
 
 
