@@ -35,7 +35,7 @@ My incident report: <br/>
 <br />
 <br />
 <br />
-The project Exemplar file<br/>
+The project Exemplar file. *received post-project to assess the similarity and level of fidelity to the Incident response framework.*<br/>
 <img src="https://i.imgur.com/VqpE5Cr.png" height="80%" width="80%" alt="exemplar"/>
 <br />
 
