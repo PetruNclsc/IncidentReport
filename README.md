@@ -29,15 +29,14 @@ You take the server offline temporarily so that the machine can recover and retu
 <h2>Incident report walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/3I4uT3r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+My incident report: <br/>
+<img src="https://i.imgur.com/UoMoZEv.png" height="80%" width="80%" alt="incidentrep"/>
 <br />
 <br />
-<img src="https://i.imgur.com/Xnjgwaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The project Exemplar file<br/>
-<img src="https://i.imgur.com/VqpE5Cr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VqpE5Cr.png" height="80%" width="80%" alt="exemplar"/>
 <br />
 
 <!--
